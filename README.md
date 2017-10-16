@@ -11,7 +11,7 @@ $ npm install
 Find or create your discord bot token [here](https://discordapp.com/developers/applications/me)
 and replace at this login parameter to your token
 ```javascript
-botRem.login('YOUR BOT TOKEN HERE!!!');
+botMarisa.login('YOUR BOT TOKEN HERE!!!');
 ```
 Make sure you have assign your bot in to your server. You can use below URL for bot to login into your server. Replace <CLIENT ID> to your bot client id. You can found in your discord app info [here](https://discordapp.com/developers/applications/me)
 ```
